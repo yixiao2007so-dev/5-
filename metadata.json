@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 蛋仔单词弹弹乐",
+  "description": "A gamified vocabulary learning app for 5th graders featuring a bouncy, high-saturation UI, mini-games, and AI-powered word context.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
